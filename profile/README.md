@@ -1,6 +1,6 @@
 # Jagged Alliance 2 1.13 Vengeance: Reloaded
 
-JA2 - Vengeance : Reloaded is a 1.13 mod based on the v7609 source code but using it's own exe and custom features.
+JA2 - Vengeance : Reloaded is a 1.13 mod based on the v7609 source code but using its own exe and custom features.
 
 These features include:
 * New and improved maps, many using custom-built tilesets
